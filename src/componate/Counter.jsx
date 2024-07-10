@@ -9,12 +9,13 @@ export default function Counter() {
   const [Num6,setNum6] = useState(0)
   const [Num7,setNum7] = useState(0)
   const [Num8,setNum8] = useState(0)
+  const [Num ,setNum] = useState()
 
 const incrimantimg1 =(e)=>{
   setNum1(Num1+1)
 }
   const incrimantimg2 =(e)=>{
-  setNum2(Num2+1)
+   setNum2( Num2+1)
 }
  const incrimantimg3 =(e)=>{
   setNum3(Num3+1)

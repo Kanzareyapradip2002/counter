@@ -6,10 +6,12 @@
   height: 192px;
     width: 263px;
     border-radius: 21px;
+   
 }
 .like{
   height: 30px;
   width: 33px;
+  cursor: pointer;
 }
 
 button{
